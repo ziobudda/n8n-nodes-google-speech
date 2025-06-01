@@ -107,6 +107,10 @@ export class GoogleSpeech implements INodeType {
 						value: 'de-DE',
 					},
 					{
+						name: 'Polish (pl-PL)',
+						value: 'pl-PL',
+					},
+					{
 						name: 'Spanish (es-ES)',
 						value: 'es-ES',
 					},
@@ -448,6 +452,10 @@ export class GoogleSpeech implements INodeType {
 					{
 						name: 'German (de-DE)',
 						value: 'de-DE',
+					},
+					{
+						name: 'Polish (pl-PL)',
+						value: 'pl-PL',
 					},
 					{
 						name: 'Spanish (es-ES)',
